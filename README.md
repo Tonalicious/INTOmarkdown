@@ -12,9 +12,9 @@ Lýsið hvernig gekk að setja upp Linux. Bætið inn í þetta skjal ljósmynd 
 
 Þrátt fyrir erfiða byrjun með VirtualBox var ákveðið að setja upp Ubuntu 12.04 LTS með USB lykli.
 
-![alt tag](https://github.com/Tonalicious/INTOmarkdown/blob/master/anton.jpg)
+anton.jpg
 
-![alt tag](https://github.com/Tonalicious/INTOmarkdown/blob/master/jori.jpg)
+jori.jpg
 
 ## 2. Uppsetning á vim && git
 
