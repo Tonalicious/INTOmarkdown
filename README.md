@@ -2,9 +2,9 @@
 
 Listi af hópmeðlimum.
 
-@Anton Hilmarsson
+Anton Hilmarsson
 
-@Jörundur Kristinsson
+Jörundur Kristinsson
 
 ## 1. Linux uppsetning
 
@@ -12,9 +12,9 @@ Lýsið hvernig gekk að setja upp Linux. Bætið inn í þetta skjal ljósmynd 
 
 Þrátt fyrir erfiða byrjun með VirtualBox var ákveðið að setja upp Ubuntu 12.04 LTS með USB lykli.
 
-![alt tag](https://raw.github.com/Tonalicious/INTOmarkdown/blob/master/anton.jpg)
+![alt tag](https://github.com/Tonalicious/INTOmarkdown/blob/master/anton.jpg?raw=true)
 
-![alt tag](https://raw.github.com/Tonalicious/INTOmarkdown/blob/master/jori.jpg)
+![alt tag](https://github.com/Tonalicious/INTOmarkdown/blob/master/jori.jpg?raw=true)
 
 ## 2. Uppsetning á vim && git
 
@@ -24,7 +24,7 @@ Eftir að Ubuntu var komið í gang var ekkert mál að setja upp vim og git me�
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.Látið fylgja tengil á ykkar útgáfu af verkefninu.
+Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum. Látið fylgja tengil á ykkar útgáfu af verkefninu.
 
 Að forka sjálft verkefnið og nota git clone og git commit var lítið mál. Aftur á móti var erfiðara að venjast Vim þar sem við höfum vanist að nota Nano. Eftir að við náðum tökum á Vim gekk vel að breyta kóðanum og klára þriðja hluta verkefnisins. Okkar útgáfu af verkefninu er hægt að nálgast á https://github.com/Tonalicious/INTOPrufa.
  
