@@ -16,7 +16,7 @@ Eftir erfiða byrjun með VirtualBox var ákveðið að setja upp Ubuntu 12.04 L
 
 ![alt tag](https://github.com/Tonalicious/INTOmarkdown/blob/master/jori.jpg?raw=true)
 
-## 2. Uppsetning á vim && git
+## 2. Uppsetning á vim & git
 
 Lýsið hvernig gekk að setja upp þessi tól.
 
