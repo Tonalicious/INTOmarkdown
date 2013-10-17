@@ -20,13 +20,13 @@ Eftir erfiða byrjun með VirtualBox var ákveðið að setja upp Ubuntu 12.04 L
 
 Lýsið hvernig gekk að setja upp þessi tól.
 
-Eftir að Ubuntu var komið í gang var ekkert mál að setja upp vim og git með auðveldum skipunum í terminal, auðveldara en búast mátti við. 
+Eftir að Ubuntu var komið í gang var ekkert mál að setja upp vim og git með auðveldum skipunum í terminal, auðveldara en við bjuggumst við. 
 
 ## 3. Unnið með Git (1. hluti)
 
 Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum. Látið fylgja tengil á ykkar útgáfu af verkefninu.
 
-Að forka NIM verkefnið og nota git clone og git commit var lítið mál. Aftur á móti var erfiðara að venjast vim þar sem við höfum vanist því að nota nano. Eftir að við náðum tökum á vim gekk vel að breyta kóðanum og klára þriðja hluta verkefnisins. Okkar útgáfu af verkefninu er hægt að nálgast á https://github.com/Tonalicious/INTOPrufa.
+Að forka NIM verkefnið og nota git skipanirnar var lítið mál. Aftur á móti var erfiðara að venjast vim þar sem við höfum vanist því að nota nano. Eftir að við náðum tökum á vim gekk vel að breyta kóðanum og klára þriðja hluta verkefnisins. Okkar útgáfu af verkefninu er hægt að nálgast á https://github.com/Tonalicious/INTOPrufa.
  
 ## 4. Uppsettur hugbúnaður
 
