@@ -2,9 +2,9 @@
 
 Listi af hópmeðlimum.
 
-Anton Hilmarsson
+* Anton Hilmarsson
 
-Jörundur Kristinsson
+* Jörundur Kristinsson
 
 ## 1. Linux uppsetning
 
